@@ -213,6 +213,8 @@ class FlutterClassGenerator {
 // Generated using $kVendorName.
 // Copyright © ${DateTime.now().year} $kVendorName ($kVendorUrl).
 
+// ignore_for_file: type=lint
+
 import 'package:flutter/widgets.dart';
 
 /// Identifiers for the icons.
